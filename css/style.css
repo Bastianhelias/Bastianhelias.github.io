@@ -1,0 +1,16 @@
+.banner {
+  background-image: url(https://www.mockupcloud.com/uploads/files/2016/03/21/04_premium_business_stationery_mockup.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 400px;
+  color: white; }
+  .banner .text {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 200px;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center; }
+  .banner h2 {
+    font-size: 70px; }
